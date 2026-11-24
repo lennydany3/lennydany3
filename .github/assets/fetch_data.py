@@ -15,7 +15,7 @@ import os
 import datetime
 import urllib.request
 
-USER = "LennyDany-03"
+USER = "lennydany3"
 HERE = os.path.dirname(os.path.abspath(__file__))
 MONTHS = 12
 

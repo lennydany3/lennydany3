@@ -123,12 +123,12 @@ PROJECTS = [
         "link": "crest-beta.vercel.app",
     },
     {
-        "key": "loopify", "motif": "loop", "k": 0.5,
-        "name": "LOOPIFY", "meta": "iOS · Android",
+        "key": "tide", "motif": "loop", "k": 0.5,
+        "name": "TIDE", "meta": "iOS · Android",
         "tagline": "Habits, tracked on a real loop.",
         "desc": "An Expo + React Native app on a typed FastAPI backend, with Supabase auth and check-ins.",
         "stack": ["Expo 54", "React 19", "FastAPI", "Supabase"],
-        "link": "loopify3.vercel.app",
+        "link": "get-tide.vercel.app",
     },
     {
         "key": "nic", "motif": "film", "k": 1.0,
@@ -143,7 +143,7 @@ PROJECTS = [
 # The work log. `lang` drives the colour chip, so it has to match the repo.
 LEDGER = [
     ("Crest",    "Rust",       "a dynamic notch for Windows",            True),
-    ("Loopify",  "JavaScript", "habit tracking on a typed API",          True),
+    ("Tide",  "JavaScript", "habit tracking on a typed API",          True),
     ("NIC",      "JavaScript", "912 frames scrubbed by scroll",          True),
     ("Ascendry", "JavaScript", "the platform the products ship under",   True),
     ("Atlas",    "Python",     "an agent that executes, not chats",      False),
